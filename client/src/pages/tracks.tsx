@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout } from "../components";
+import { gql } from "../__generated__/";
 
 /**
  * Tracks Page is the Catstronauts home page.
